@@ -7,5 +7,5 @@
  
 ## How to run
 
- - run the buid.sh script
+ - run the build.sh script
 
