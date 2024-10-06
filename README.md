@@ -3,7 +3,7 @@
 
 ## Prerequisites
  
- -raylib installed
+ - raylib installed
  
 ## How to run
 
